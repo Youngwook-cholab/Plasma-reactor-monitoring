@@ -43,5 +43,5 @@ An example script is provided, allowing users to directly run the chemometric de
 Includes Python scripts utilizing **FFT-based low-pass filtering** and **SciPy minimization** to extract time-resolved analyte concentrations.  
 
 📈 The processed data correspond to **Figure 5**, illustrating dynamic OH→H₂O₂ and NO₂⁻→NO₃⁻ conversion in the plasma reactor.  
-
+Users can directly reproduce the decoding results by running the script with the provided 30 W time-series txt dataset, covering the full 5 min monitoring duration.
 ---
