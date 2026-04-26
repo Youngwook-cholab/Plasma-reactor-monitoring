@@ -31,16 +31,17 @@ Contains **Pyomo-based nonlinear optimization scripts** and intermediate results
 
 - Optimization performed via residual minimization (`etotal`)  
 - Validation against conventional assay results (H₂O₂ and NO₃⁻)  
-- Corresponds to **Figures 3–4** in the manuscript  
+- Corresponds to **Figures 2-3** in the manuscript  
 
 🧩 This step bridges the calibration database with predictive modeling and forms the basis for real-time signal decoding.
 
+An example script is provided, allowing users to directly run the chemometric decoding with representative parameters and input data.
 ---
 
 ### 3️⃣ `Sensor signal deconvolution (On-line, FFT+SciPy)`
 **Purpose:** Real-time decoding of multi-sensor signals from the **microfluidic multi-optode PAT platform**.  
 Includes Python scripts utilizing **FFT-based low-pass filtering** and **SciPy minimization** to extract time-resolved analyte concentrations.  
 
-📈 The processed data correspond to **Figure 6**, illustrating dynamic OH⁻→H₂O₂ and NO₂⁻→NO₃⁻ conversion in the plasma reactor.  
+📈 The processed data correspond to **Figure 5**, illustrating dynamic OH→H₂O₂ and NO₂⁻→NO₃⁻ conversion in the plasma reactor.  
 
 ---
