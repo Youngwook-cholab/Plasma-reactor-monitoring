@@ -33,7 +33,7 @@ Contains **Pyomo-based nonlinear optimization scripts** and intermediate results
 - Validation against conventional assay results (H₂O₂ and NO₃⁻)  
 - Corresponds to **Figures 2-3** in the manuscript  
 
-An example script is provided, allowing users to directly run the chemometric decoding with representative parameters and input data.
+An example script is provided, allowing users to directly run the chemometric decoding with representative parameters and input data (Operation #4).
 
 🧩 This step bridges the calibration database with predictive modeling and forms the basis for real-time signal decoding.
 ---
