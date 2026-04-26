@@ -9,7 +9,7 @@ The project establishes an **online Process Analytical Technology (PAT)** framew
 
 ### 1️⃣ `3D chemometric database`
 **Purpose:** Calibration datasets for 24 ssDNA/SWNT nanosensors against four key analytes:  
-**H₂O₂, OH⁻, NO₂⁻, and NO₃⁻**
+**H₂O₂, OH, NO₂⁻, and NO₃⁻**
 
 **Description:**  
 - File indices: `001`–`072`  
